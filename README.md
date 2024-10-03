@@ -1,7 +1,3 @@
-Here's a **README.md** template for your book store project:
-
----
-
 # 📚 ABJ Book Store - MERN Stack Application
 
 ABJ Book Store is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This project allows users to manage a list of books by performing basic CRUD (Create, Read, Update, Delete) operations.
@@ -116,9 +112,4 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-- **Author**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
-
----
-
-This should provide a clean and professional look for your GitHub project. You can customize the content further to match your personal style or branding.
+- **Author**: Abhay J.
