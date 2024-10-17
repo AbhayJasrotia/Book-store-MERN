@@ -28,6 +28,8 @@ ABJ Book Store is a full-stack web application built using the MERN stack (Mongo
   - Notistack (Snackbars for notifications)
 
 ## 🖼️ UI Screenshots
+![Screenshot 2024-09-14 173536](https://github.com/user-attachments/assets/448d7bd4-b352-43b1-8b3e-aa2bb70bd57c)
+![Screenshot 2024-09-14 173617](https://github.com/user-attachments/assets/7eb7e40a-2f76-4885-ae41-9fa281d515f2)
 
 ### Home Page (Books List)
 ![Home Page](https://link-to-screenshot.com/home-page.png)
